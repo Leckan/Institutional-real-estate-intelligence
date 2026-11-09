@@ -1,0 +1,6 @@
+{
+  "name": "AI Housing Opportunity Engine",
+  "description": "Institutional real estate intelligence platform to discover profitable affordable housing opportunities, predict regional market trends, analyze zoning feasibility, and build thriving communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
